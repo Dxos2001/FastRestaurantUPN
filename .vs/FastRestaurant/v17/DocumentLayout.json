@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jalex\\OneDrive - Universidad Privada del Norte\\9no Ciclo\\Aplicaciones Moviles\\Proyecto\\FastRestaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2D8802-50A7-44A2-8F4A-8E6C42495F65}|FastRestaurant\\FastRestaurant.csproj|c:\\users\\jalex\\onedrive - universidad privada del norte\\9no ciclo\\aplicaciones moviles\\proyecto\\fastrestaurant\\fastrestaurant\\controllers\\fastrestaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2D8802-50A7-44A2-8F4A-8E6C42495F65}|FastRestaurant\\FastRestaurant.csproj|solutionrelative:fastrestaurant\\controllers\\fastrestaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2D8802-50A7-44A2-8F4A-8E6C42495F65}|FastRestaurant\\FastRestaurant.csproj|c:\\users\\jalex\\onedrive - universidad privada del norte\\9no ciclo\\aplicaciones moviles\\proyecto\\fastrestaurant\\fastrestaurant\\dato\\dtorestaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2D8802-50A7-44A2-8F4A-8E6C42495F65}|FastRestaurant\\FastRestaurant.csproj|solutionrelative:fastrestaurant\\dato\\dtorestaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2D8802-50A7-44A2-8F4A-8E6C42495F65}|FastRestaurant\\FastRestaurant.csproj|c:\\users\\jalex\\onedrive - universidad privada del norte\\9no ciclo\\aplicaciones moviles\\proyecto\\fastrestaurant\\fastrestaurant\\entidad\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2D8802-50A7-44A2-8F4A-8E6C42495F65}|FastRestaurant\\FastRestaurant.csproj|solutionrelative:fastrestaurant\\entidad\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2D8802-50A7-44A2-8F4A-8E6C42495F65}|FastRestaurant\\FastRestaurant.csproj|c:\\users\\jalex\\onedrive - universidad privada del norte\\9no ciclo\\aplicaciones moviles\\proyecto\\fastrestaurant\\fastrestaurant\\datacollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2D8802-50A7-44A2-8F4A-8E6C42495F65}|FastRestaurant\\FastRestaurant.csproj|solutionrelative:fastrestaurant\\datacollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2D8802-50A7-44A2-8F4A-8E6C42495F65}|FastRestaurant\\FastRestaurant.csproj|c:\\users\\jalex\\onedrive - universidad privada del norte\\9no ciclo\\aplicaciones moviles\\proyecto\\fastrestaurant\\fastrestaurant\\dato\\dtousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2D8802-50A7-44A2-8F4A-8E6C42495F65}|FastRestaurant\\FastRestaurant.csproj|solutionrelative:fastrestaurant\\dato\\dtousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2D8802-50A7-44A2-8F4A-8E6C42495F65}|FastRestaurant\\FastRestaurant.csproj|c:\\users\\jalex\\onedrive - universidad privada del norte\\9no ciclo\\aplicaciones moviles\\proyecto\\fastrestaurant\\fastrestaurant\\entidad\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2D8802-50A7-44A2-8F4A-8E6C42495F65}|FastRestaurant\\FastRestaurant.csproj|solutionrelative:fastrestaurant\\entidad\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2D8802-50A7-44A2-8F4A-8E6C42495F65}|FastRestaurant\\FastRestaurant.csproj|c:\\users\\jalex\\onedrive - universidad privada del norte\\9no ciclo\\aplicaciones moviles\\proyecto\\fastrestaurant\\fastrestaurant\\entidad\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2D8802-50A7-44A2-8F4A-8E6C42495F65}|FastRestaurant\\FastRestaurant.csproj|solutionrelative:fastrestaurant\\entidad\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2D8802-50A7-44A2-8F4A-8E6C42495F65}|FastRestaurant\\FastRestaurant.csproj|c:\\users\\jalex\\onedrive - universidad privada del norte\\9no ciclo\\aplicaciones moviles\\proyecto\\fastrestaurant\\fastrestaurant\\dato\\dtocomentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2D8802-50A7-44A2-8F4A-8E6C42495F65}|FastRestaurant\\FastRestaurant.csproj|solutionrelative:fastrestaurant\\dato\\dtocomentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2D8802-50A7-44A2-8F4A-8E6C42495F65}|FastRestaurant\\FastRestaurant.csproj|c:\\users\\jalex\\onedrive - universidad privada del norte\\9no ciclo\\aplicaciones moviles\\proyecto\\fastrestaurant\\fastrestaurant\\dato\\dtoplato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2D8802-50A7-44A2-8F4A-8E6C42495F65}|FastRestaurant\\FastRestaurant.csproj|solutionrelative:fastrestaurant\\dato\\dtoplato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2D8802-50A7-44A2-8F4A-8E6C42495F65}|FastRestaurant\\FastRestaurant.csproj|c:\\users\\jalex\\onedrive - universidad privada del norte\\9no ciclo\\aplicaciones moviles\\proyecto\\fastrestaurant\\fastrestaurant\\entidad\\loginentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2D8802-50A7-44A2-8F4A-8E6C42495F65}|FastRestaurant\\FastRestaurant.csproj|solutionrelative:fastrestaurant\\entidad\\loginentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 271,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Restaurante.cs",
+              "DocumentMoniker": "C:\\Users\\jalex\\OneDrive - Universidad Privada del Norte\\9no Ciclo\\Aplicaciones Moviles\\Proyecto\\FastRestaurant\\FastRestaurant\\Entidad\\Restaurante.cs",
+              "RelativeDocumentMoniker": "FastRestaurant\\Entidad\\Restaurante.cs",
+              "ToolTip": "C:\\Users\\jalex\\OneDrive - Universidad Privada del Norte\\9no Ciclo\\Aplicaciones Moviles\\Proyecto\\FastRestaurant\\FastRestaurant\\Entidad\\Restaurante.cs",
+              "RelativeToolTip": "FastRestaurant\\Entidad\\Restaurante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:39:45.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FastRestaurantController.cs",
+              "DocumentMoniker": "C:\\Users\\jalex\\OneDrive - Universidad Privada del Norte\\9no Ciclo\\Aplicaciones Moviles\\Proyecto\\FastRestaurant\\FastRestaurant\\Controllers\\FastRestaurantController.cs",
+              "RelativeDocumentMoniker": "FastRestaurant\\Controllers\\FastRestaurantController.cs",
+              "ToolTip": "C:\\Users\\jalex\\OneDrive - Universidad Privada del Norte\\9no Ciclo\\Aplicaciones Moviles\\Proyecto\\FastRestaurant\\FastRestaurant\\Controllers\\FastRestaurantController.cs",
+              "RelativeToolTip": "FastRestaurant\\Controllers\\FastRestaurantController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:27:06.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginEntidad.cs",
+              "DocumentMoniker": "C:\\Users\\jalex\\OneDrive - Universidad Privada del Norte\\9no Ciclo\\Aplicaciones Moviles\\Proyecto\\FastRestaurant\\FastRestaurant\\Entidad\\LoginEntidad.cs",
+              "RelativeDocumentMoniker": "FastRestaurant\\Entidad\\LoginEntidad.cs",
+              "ToolTip": "C:\\Users\\jalex\\OneDrive - Universidad Privada del Norte\\9no Ciclo\\Aplicaciones Moviles\\Proyecto\\FastRestaurant\\FastRestaurant\\Entidad\\LoginEntidad.cs",
+              "RelativeToolTip": "FastRestaurant\\Entidad\\LoginEntidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:00:26.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataCollection.cs",
+              "DocumentMoniker": "C:\\Users\\jalex\\OneDrive - Universidad Privada del Norte\\9no Ciclo\\Aplicaciones Moviles\\Proyecto\\FastRestaurant\\FastRestaurant\\DataCollection.cs",
+              "RelativeDocumentMoniker": "FastRestaurant\\DataCollection.cs",
+              "ToolTip": "C:\\Users\\jalex\\OneDrive - Universidad Privada del Norte\\9no Ciclo\\Aplicaciones Moviles\\Proyecto\\FastRestaurant\\FastRestaurant\\DataCollection.cs",
+              "RelativeToolTip": "FastRestaurant\\DataCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:55:00.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Plato.cs",
+              "DocumentMoniker": "C:\\Users\\jalex\\OneDrive - Universidad Privada del Norte\\9no Ciclo\\Aplicaciones Moviles\\Proyecto\\FastRestaurant\\FastRestaurant\\Entidad\\Plato.cs",
+              "RelativeDocumentMoniker": "FastRestaurant\\Entidad\\Plato.cs",
+              "ToolTip": "C:\\Users\\jalex\\OneDrive - Universidad Privada del Norte\\9no Ciclo\\Aplicaciones Moviles\\Proyecto\\FastRestaurant\\FastRestaurant\\Entidad\\Plato.cs",
+              "RelativeToolTip": "FastRestaurant\\Entidad\\Plato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:39:53.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Comentario.cs",
+              "DocumentMoniker": "C:\\Users\\jalex\\OneDrive - Universidad Privada del Norte\\9no Ciclo\\Aplicaciones Moviles\\Proyecto\\FastRestaurant\\FastRestaurant\\Entidad\\Comentario.cs",
+              "RelativeDocumentMoniker": "FastRestaurant\\Entidad\\Comentario.cs",
+              "ToolTip": "C:\\Users\\jalex\\OneDrive - Universidad Privada del Norte\\9no Ciclo\\Aplicaciones Moviles\\Proyecto\\FastRestaurant\\FastRestaurant\\Entidad\\Comentario.cs",
+              "RelativeToolTip": "FastRestaurant\\Entidad\\Comentario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:43:39.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dtoUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\jalex\\OneDrive - Universidad Privada del Norte\\9no Ciclo\\Aplicaciones Moviles\\Proyecto\\FastRestaurant\\FastRestaurant\\Dato\\dtoUsuario.cs",
+              "RelativeDocumentMoniker": "FastRestaurant\\Dato\\dtoUsuario.cs",
+              "ToolTip": "C:\\Users\\jalex\\OneDrive - Universidad Privada del Norte\\9no Ciclo\\Aplicaciones Moviles\\Proyecto\\FastRestaurant\\FastRestaurant\\Dato\\dtoUsuario.cs",
+              "RelativeToolTip": "FastRestaurant\\Dato\\dtoUsuario.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:53:27.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dtoRestaurante.cs",
+              "DocumentMoniker": "C:\\Users\\jalex\\OneDrive - Universidad Privada del Norte\\9no Ciclo\\Aplicaciones Moviles\\Proyecto\\FastRestaurant\\FastRestaurant\\Dato\\dtoRestaurante.cs",
+              "RelativeDocumentMoniker": "FastRestaurant\\Dato\\dtoRestaurante.cs",
+              "ToolTip": "C:\\Users\\jalex\\OneDrive - Universidad Privada del Norte\\9no Ciclo\\Aplicaciones Moviles\\Proyecto\\FastRestaurant\\FastRestaurant\\Dato\\dtoRestaurante.cs",
+              "RelativeToolTip": "FastRestaurant\\Dato\\dtoRestaurante.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwC8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:17:59.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dtoPlato.cs",
+              "DocumentMoniker": "C:\\Users\\jalex\\OneDrive - Universidad Privada del Norte\\9no Ciclo\\Aplicaciones Moviles\\Proyecto\\FastRestaurant\\FastRestaurant\\Dato\\dtoPlato.cs",
+              "RelativeDocumentMoniker": "FastRestaurant\\Dato\\dtoPlato.cs",
+              "ToolTip": "C:\\Users\\jalex\\OneDrive - Universidad Privada del Norte\\9no Ciclo\\Aplicaciones Moviles\\Proyecto\\FastRestaurant\\FastRestaurant\\Dato\\dtoPlato.cs",
+              "RelativeToolTip": "FastRestaurant\\Dato\\dtoPlato.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:18:10.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dtoComentario.cs",
+              "DocumentMoniker": "C:\\Users\\jalex\\OneDrive - Universidad Privada del Norte\\9no Ciclo\\Aplicaciones Moviles\\Proyecto\\FastRestaurant\\FastRestaurant\\Dato\\dtoComentario.cs",
+              "RelativeDocumentMoniker": "FastRestaurant\\Dato\\dtoComentario.cs",
+              "ToolTip": "C:\\Users\\jalex\\OneDrive - Universidad Privada del Norte\\9no Ciclo\\Aplicaciones Moviles\\Proyecto\\FastRestaurant\\FastRestaurant\\Dato\\dtoComentario.cs",
+              "RelativeToolTip": "FastRestaurant\\Dato\\dtoComentario.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:18:18.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
